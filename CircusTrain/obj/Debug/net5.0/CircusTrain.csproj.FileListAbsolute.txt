@@ -1,0 +1,16 @@
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/bin/Debug/net5.0/CircusTrain
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/bin/Debug/net5.0/CircusTrain.deps.json
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/bin/Debug/net5.0/CircusTrain.runtimeconfig.json
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/bin/Debug/net5.0/CircusTrain.runtimeconfig.dev.json
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/bin/Debug/net5.0/CircusTrain.dll
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/bin/Debug/net5.0/ref/CircusTrain.dll
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/bin/Debug/net5.0/CircusTrain.pdb
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/obj/Debug/net5.0/CircusTrain.csproj.AssemblyReference.cache
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/obj/Debug/net5.0/CircusTrain.GeneratedMSBuildEditorConfig.editorconfig
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/obj/Debug/net5.0/CircusTrain.AssemblyInfoInputs.cache
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/obj/Debug/net5.0/CircusTrain.AssemblyInfo.cs
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/obj/Debug/net5.0/CircusTrain.csproj.CoreCompileInputs.cache
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/obj/Debug/net5.0/CircusTrain.dll
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/obj/Debug/net5.0/ref/CircusTrain.dll
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/obj/Debug/net5.0/CircusTrain.pdb
+/home/pepijn/RiderProjects/CircusTrain/CircusTrain/obj/Debug/net5.0/CircusTrain.genruntimeconfig.cache

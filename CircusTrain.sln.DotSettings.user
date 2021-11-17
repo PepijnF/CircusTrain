@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=22bc8476_002Dbd71_002D4571_002Da304_002Dd380178f1895/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Filling up the train #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::180C7393-63E2-410B-A95A-CD48ABDA2F27::net5.0::CircusTrain.Specs.Features.CircusTrainFeature.FillingUpTheTrain&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5b5fa968_002D7387_002D461b_002Da3ae_002Da00501396fab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Filling up the train" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::180C7393-63E2-410B-A95A-CD48ABDA2F27::net5.0::CircusTrain.Specs.Features.CircusTrainFeature.FillingUpTheTrain&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::180C7393-63E2-410B-A95A-CD48ABDA2F27::net5.0::CircusTrain.Specs.Features.CircusTrainFeature.FillingUpMoreTrains&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

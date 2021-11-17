@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircusTrain", "CircusTrain\CircusTrain.csproj", "{4800CA14-EBAF-4B9E-A592-4DEF78D96A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircusTrain.Specs", "CircusTrain.Specs\CircusTrain.Specs.csproj", "{180C7393-63E2-410B-A95A-CD48ABDA2F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4800CA14-EBAF-4B9E-A592-4DEF78D96A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4800CA14-EBAF-4B9E-A592-4DEF78D96A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4800CA14-EBAF-4B9E-A592-4DEF78D96A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4800CA14-EBAF-4B9E-A592-4DEF78D96A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180C7393-63E2-410B-A95A-CD48ABDA2F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180C7393-63E2-410B-A95A-CD48ABDA2F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180C7393-63E2-410B-A95A-CD48ABDA2F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180C7393-63E2-410B-A95A-CD48ABDA2F27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
