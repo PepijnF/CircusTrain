@@ -5,12 +5,18 @@ namespace CircusTrain
     public class Animal
     {
         public FoodPreferenceEnum FoodPreference { get; }
-        public int Size { get; }
+        public int Size
+        {
+            get { return (int)SizeE; }
+
+        }
         public bool isPlaced = false;
+        public SizeEnum SizeE = SizeEnum.Small;
 
 
         public Animal(SizeEnum sizeEnum, FoodPreferenceEnum foodPreference)
         {
+            SizeE = sizeEnum;
             switch (sizeEnum)
             {
                 case SizeEnum.Small:
@@ -28,9 +34,9 @@ namespace CircusTrain
         }
         public enum SizeEnum
         {
-            Small,
-            Medium,
-            Large
+            Small = 1,
+            Medium = 3,
+            Large = 5
         }
         public enum FoodPreferenceEnum
         {
